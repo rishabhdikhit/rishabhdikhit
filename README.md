@@ -14,6 +14,13 @@
 
 ## Examples of Work
 
+### Descriptive Statistical Analysis and Probability
+- 🏃 **Aerofit** [[here](https://github.com/rishabhdikhit/Aerofit---Descriptive-Statistics-Probability-.)]
+- <a href="https://www.walmart.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1024px-Walmart_logo.svg.png" alt="walmart" width="20" height="20"/> </a> **Walmart** [[here](https://github.com/rishabhdikhit/Business-Case-Walmart---Confidence-Interval-and-CLT)]
+
+### Hypothesis Testing
+- 🚲 **Yulu** [[here](https://github.com/rishabhdikhit/Business-Case-YULU-Hypothesis-Testing)]
+
 ### SQL
 - 🎯 **Target** [[here](https://github.com/rishabhdikhit/target----business-case-----scaler)]
 
@@ -24,12 +31,7 @@
 - 🌸✋🏻 **Electoral Bonds** [[here](https://github.com/rishabhdikhit/Electoral-Bonds)]
 - ⚡ **Installed Energy Capacity** [[here](https://github.com/rishabhdikhit/Energy-capacity-in-India-sector-wise)]
 
-### Descriptive Statistical Analysis and Probability
-- 🏃 **Aerofit** [[here](https://github.com/rishabhdikhit/Aerofit---Descriptive-Statistics-Probability-.)]
-- <a href="https://www.walmart.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1024px-Walmart_logo.svg.png" alt="walmart" width="20" height="20"/> </a> **Walmart** [[here](https://github.com/rishabhdikhit/Business-Case-Walmart---Confidence-Interval-and-CLT)]
 
-### Hypothesis Testing
-- 🚲 **Yulu** [[here](https://github.com/rishabhdikhit/Business-Case-YULU-Hypothesis-Testing)]
 
 
 <!-- Add links or descriptions of your work examples here -->
