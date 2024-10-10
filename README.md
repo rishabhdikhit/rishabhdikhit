@@ -28,6 +28,7 @@
 - <a href="https://www.netflix.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg" alt="netflix" width="20" height="20"/></a> **Netflix** [[here](https://github.com/rishabhdikhit/Netflix-analysis----scaler-business-case)]
 
 ### Tableau Visualisation / Dashboarding
+- 📈📊 **Sales Data Analysis** [[here](https://public.tableau.com/views/SalesDahsboard_17282384342930/Dashboard25?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 - 🌸✋🏻 **Electoral Bonds** [[here](https://github.com/rishabhdikhit/Electoral-Bonds)]
 - ⚡ **Installed Energy Capacity** [[here](https://github.com/rishabhdikhit/Energy-capacity-in-India-sector-wise)]
 
